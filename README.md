@@ -22,13 +22,11 @@ A simple and interactive calculator built using HTML, CSS, and JavaScript.
 ## Installation
 
 1. Clone the repository:
-
-   ```bash
+ ```bash
    https://github.com/AnkitKumar666/Calculator
    ```
 2. Open in Browser:
-
-  ```bash
+```bash
   https://ankitkumar666.github.io/Calculator/
   ```
 
