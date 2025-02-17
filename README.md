@@ -26,7 +26,7 @@ A simple and interactive calculator built using HTML, CSS, and JavaScript.
    ```bash
    https://github.com/AnkitKumar666/Calculator
    ```
-2. Open in Browser
+2. Open in Browser:
 
   ```bash
   https://ankitkumar666.github.io/Calculator/
